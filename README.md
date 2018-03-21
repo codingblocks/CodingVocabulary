@@ -15,3 +15,16 @@ Scaling "Vertically" Adding more resources to a single node (like a server) in o
 
 CRUD
 Simple operations for Create Read Update Delete
+
+## Other links:
+
+### [New Programming Jargon](https://blog.codinghorror.com/new-programming-jargon/)
+Funny and wise list of programmer terms from Jeff Atwood: [https://blog.codinghorror.com/new-programming-jargon/](https://blog.codinghorror.com/new-programming-jargon/)
+
+Includes creative terms like "Yoda Conditions", "Stringly Typed", and the classic "Heisenbug" that succinctly and humourously describe common programming...things.
+
+### [Docker Terms](https://docs.docker.com/glossary/)
+Defintions for common docker terms: [https://docs.docker.com/glossary/](https://docs.docker.com/glossary/)
+
+### [DigitalOcean Community Glossary](https://www.digitalocean.com/community/tutorials/digitalocean-community-glossary)
+Definitions and links for common server terms like Ansible, IaaS, and Virtual Hosts: [https://www.digitalocean.com/community/tutorials/digitalocean-community-glossary](https://www.digitalocean.com/community/tutorials/digitalocean-community-glossary)
