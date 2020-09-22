@@ -13,8 +13,15 @@ Breaking down a process into smaller pieces based on functionality
 
 Scaling "Vertically" Adding more resources to a single node (like a server) in order to increase throughput
 
-CRUD
+### CRUD
+
 Simple operations for Create Read Update Delete
+
+### Mock Objects
+
+**Mock Objects** are simulated objects that mimic the behavior of real objects in controlled ways used in testing code.
+
+
 
 ## Other links:
 
